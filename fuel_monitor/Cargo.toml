@@ -1,0 +1,8 @@
+[package]
+name = "fuel_monitor"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+defmt = "1.0.1"
+heapless = "0.9.1"

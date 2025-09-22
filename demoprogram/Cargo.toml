@@ -1,0 +1,11 @@
+[package]
+name = "demoprogram"
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+authors = ["Jonathan Pallant"]
+
+
+[dependencies]
+embedded-sdmmc = "0.9.0"

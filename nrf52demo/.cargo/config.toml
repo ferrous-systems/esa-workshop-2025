@@ -1,0 +1,5 @@
+[build]
+target = "thumbv7em-none-eabi"
+
+[target.thumbv7em-none-eabi]
+runner = "probe-rs run --chip nRF52840_xxAA --allow-erase-all"
